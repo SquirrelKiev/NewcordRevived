@@ -43,4 +43,4 @@ Coming soon, sorry . . .
 
 ![Screenshot3](https://imgur.com/MZD1Sj5.png)
 
-#### **Made with ![Love](https://kaiidoo.github.io/Newcord/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
+#### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
