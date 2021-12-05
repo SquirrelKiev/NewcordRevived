@@ -1,15 +1,11 @@
-# Newcord [![Download][download-badge]][download-link] [![Buy Me A Coffee][coffee-badge]][coffee-link] [![Support][support-badge]][support-link] [![Patreon][patreon-badge]][patreon-link]
+# NewcordRevived [![Download][download-badge]][download-link] [![Support][support-badge]][support-link]
 
-[download-badge]: https://kaiidoo.github.io/Newcord/icons/github/download.svg
-[coffee-badge]: https://kaiidoo.github.io/Newcord/icons/github/coffee.svg
-[support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
-[patreon-badge]: https://kaiidoo.github.io/Newcord/icons/github/patreon.svg
-[download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
-[coffee-link]: https://www.buymeacoffee.com/kaiidoo
-[support-link]: https://github.com/Kaiidoo/Newcord/issues
-[patreon-link]: https://patreon.com/kaiidoo
+[download-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/download.svg
+[support-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/support.svg
+[download-link]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/newcord.theme.css
+[support-link]: https://github.com/SquirrelKiev/NewcordRevived/issues
 
-A colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
+A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
 ![Banner](https://imgur.com/i3S1GGI.png)
 
@@ -19,14 +15,14 @@ To download the theme, go on this [page][download-link], right-click, click "sav
 
 If you need a more detailed guide here's one for Windows and one for macOS:
 
--   [Windows](https://kaiidoo.github.io/Newcord/guides/windows.md)
--   [macOS](https://kaiidoo.github.io/Newcord/guides/macOS.md)
+-   [Windows](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/windows.md)
+-   [macOS](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/macOS.md)
 
 ## Customization guide
 
 Coming soon, sorry . . .
 
-![Calendar](https://kaiidoo.github.io/Newcord/icons/github/calendar.svg) It should come around September 2021.
+![Calendar](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/calendar.svg) It should come around September 2021.
 
 ## Features to come
 
