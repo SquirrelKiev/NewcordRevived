@@ -2,7 +2,7 @@
 
 ## Icons used in Github ( Readme and Installation Guides )
 
-The "Calendar", "Coffee", "Download", "Heart", "Patreon" and "Support" icons principally of the [README.md](https://kaiidoo.github.io/Newcord/README.md) are from [Material Two Tone](https://icons8.com/icons/material-two-tone) by [Icons8](https://icons8.com).
+The "Calendar", "Coffee", "Download", "Heart", "Patreon" and "Support" icons principally of the [README.md](https://github.com/SquirrelKiev/NewcordRevived/blob/main/README.md) are from [Material Two Tone](https://icons8.com/icons/material-two-tone) by [Icons8](https://icons8.com).
 
 ## Icons used in Discord Settings
 
@@ -12,4 +12,4 @@ The "Keybinds", "Advanced", "Custom CSS", "Plugins", "Plugin Repo", "Experiments
 
 ## Icons used in the file explorers of the Installation Guides
 
-All icons from the file explorers of the [macOS Installation Guide](https://github.com/Kaiidoo/Newcord/blob/main/guides/macOS.md) and [Windows Installation Guide](https://github.com/Kaiidoo/Newcord/blob/main/guides/windows.md) are from [Fluency Systems Regular](https://icons8.com/icons/fluency-systems-regular) by [Icons8](https://icons8.com).
+All icons from the file explorers of the [macOS Installation Guide](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/macOS.md) and [Windows Installation Guide](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/windows.md) are from [Fluency Systems Regular](https://icons8.com/icons/fluency-systems-regular) by [Icons8](https://icons8.com).
