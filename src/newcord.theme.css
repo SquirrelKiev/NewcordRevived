@@ -10,7 +10,7 @@
 * @patreon https://patreon.com/kaiidoo
 **/
 
-@import url(https://kaiidoo.github.io/Newcord/src/main.css);
+@import url(https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/main.css);
 
 /* ------------------------------ 🌷 ADD A "/*" BEFORE THE LINK OF THE STUFF THAT YOU DON'T WANT TO USE ------------------------------ */
 
@@ -18,13 +18,13 @@
 @import url(https://nyri4.github.io/Discolored/main.css);
 
 /* Change the images of the friends tabs ("Online", "All", "Pending", "Blocked" and "Add a friend") */
-@import url(https://kaiidoo.github.io/Newcord/src/stuff/assets.css);
+@import url(https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/stuff/assets.css);
 
 /* Add icons on the personal and server settings */
-@import url(https://kaiidoo.github.io/Newcord/src/stuff/icons.css);
+@import url(https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/stuff/icons.css);
 
 /* To center the Discord window and add it a background */
-@import url(https://kaiidoo.github.io/Newcord/src/stuff/paddingWindow.css);
+@import url(https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/stuff/paddingWindow.css);
 
 /* ------------------------------ 🌱 THE FOLLOWING STUFF SHOULDN'T BE REMOVE IF YOU DON'T WANT TO HAVE ANY PROBLEM WITH THE THEME ------------------------------ */
 
@@ -36,4 +36,4 @@ by choosing among the following proposals:
 Test them all to see witch colors are the best for you ! :D
 
 /*												  Replace this ↓↓↓↓↓			*/
-@import url(https://kaiidoo.github.io/Newcord/src/stuff/colors/basic.colors.css);
+@import url(https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/stuff/colors/basic.colors.css);
