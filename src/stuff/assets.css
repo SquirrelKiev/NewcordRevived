@@ -1,0 +1,221 @@
+/* ------------------------------------------------------------ 🌷 FRIENDS TABS ------------------------------------------------------------ */
+
+/* ---- Images Base ---- */
+.marginBottom40-2vIwTv {
+    margin-bottom: 10px;
+}
+.image-1GzsFd.marginBottom40-2vIwTv[style] {
+    width: 415px !important;
+    height: 250px !important;
+}
+
+/* ---- Texts Base ---- */
+.theme-dark .peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "";
+}
+.marginTop8-1DLZ1n {
+    margin-top: 0;
+}
+#ONLINE-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
+#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
+#PENDING-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
+#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
+#ADD_FRIEND-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n {
+    visibility: hidden;
+    position: relative;
+}
+#ONLINE-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
+#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
+#PENDING-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
+#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
+#ADD_FRIEND-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--text-muted);
+}
+
+/* ---- ONLINE Tab ---- */
+/* Image */
+.theme-dark
+    [style*='background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'],
+.theme-dark
+    [style*='background-image: url("/assets/d834d700306f3838c0facef39e7d8a38.svg");'] {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/friends%20tabs/onlineTab.svg) !important;
+}
+/* Text */
+[lang="en-GB"]
+    #ONLINE-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "There is no one around. You should take a look at the tavern, there are lots of people there!";
+    width: 415px;
+    left: -70px;
+}
+[lang="fr"]
+    #ONLINE-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Il n'y a personne aux alentours. Tu devrais jeter un coup d'œil à la taverne, il y a plein de monde là-bas !";
+    width: 415px;
+    left: -70px;
+}
+
+/* ---- ALL Tab ---- */
+/* Image */
+#ALL-tab.peopleColumn-29fq28 .image-1GzsFd {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/friends%20tabs/allTab.svg) !important;
+}
+/* Text */
+#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n {
+    margin-bottom: 10px;
+}
+[lang="en-GB"]
+    #ALL-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "You have no friends for the moment ... You should try to go in a server for meet some people!";
+}
+[lang="fr"] #ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Tu n'as pas d'amis pour le moment ... Tu devrais essayer d'aller dans un serveur pour rencontrer des gens !";
+}
+
+/* ---- PENDING Tab ---- */
+/* Image */
+[style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'],
+[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'] {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/friends%20tabs/pendingTab.svg) !important;
+}
+/* Text */
+[lang="en-GB"]
+    #PENDING-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "There are no pending friend requests. But as they say, it's not the number that counts!";
+}
+[lang="fr"]
+    #PENDING-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Il n'y a pas de demandes d'ami en attente. Mais comme on dit, ce n'est pas le nombre qui compte !";
+}
+
+/* ---- BLOCKED Tab ---- */
+/* Image */
+[style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'],
+[style*='background-image: url("/assets/645df33d735507f39c78ce0cac7437f0.svg");'] {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/friends%20tabs/blockedTab.svg) !important;
+}
+/* Text */
+#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+    left: 10px;
+}
+[lang="en-GB"]
+    #BLOCKED-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Waw, it's strangely quiet here!";
+}
+[lang="fr"]
+    #BLOCKED-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Waw, c'est drôlement calme ici !";
+}
+
+/* ---- ADD FRIEND Tab ---- */
+/* Image */
+#ADD_FRIEND-tab.peopleColumn-29fq28 .image-1GzsFd {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/friends%20tabs/addFriendTab.svg) !important;
+}
+/* Text */
+[lang="en-GB"]
+    #ADD_FRIEND-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "They two are waiting for friends to play. But nothing forces you to add more!";
+}
+[lang="fr"]
+    #ADD_FRIEND-tab.peopleColumn-29fq28
+    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    content: "Eux deux attendent des amis pour jouer. Mais rien ne t'oblige à en ajouter !";
+}
+
+/* ------------------------------------------------------------ 🌱 NITRO PAGE ------------------------------------------------------------ */
+
+/* ---- Make Discord Yours ---- */
+.hero-EvfTTA {
+    background-image: url(https://kaiidoo.github.io/Newcord/assets/nitro/makeDiscordYours.svg) !important;
+}
+
+/* ---- Style Your Profile ---- */
+[src="/assets/d7ff363b09ab2d8cec4f4a4933fcd589.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/styleYourProfile.svg) !important;
+}
+
+/* ---- Special Stickers Access ---- */
+[src="/assets/9e6263705c5d39cd4f3c26b353208b29.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/specialStickersAccess.svg) !important;
+}
+.stickers-1O9_W6 .featureTitle-W5O6R1 {
+    text-transform: capitalize;
+}
+
+/* ---- More Emoji Power ---- */
+[src="/assets/ac6a1118b3a9266551ac5fe1cc6f05ca.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/moreEmojiPower.svg) !important;
+}
+
+/* ---- Personalized Profile ---- */
+[src="/assets/844d97f0961fcfd35bb12d450f21b076.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/personalizedProfile.svg) !important;
+}
+
+/* ---- Support Your Server ---- */
+[src="/assets/d4053689db0ab9e30abcfd4737017598.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/supportYourServer.svg) !important;
+}
+
+/* ---- Rep Your Status ---- */
+[src="/assets/dfbe1ee67ae724b485a7d61961457f17.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/repYourStatus.svg) !important;
+}
+
+/* ---- Bigger Uploads ---- */
+[src="/assets/ee4463cea419cc2442892787bc27c435.png"] {
+    content: url(https://imgur.com/okPlmip.png) !important;
+}
+
+/* ---- Longer Messages ---- */
+[src="/assets/cb42ba50d7cf18fc9853d40ecd26bf8f.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/longerMessages.svg) !important;
+}
+
+/* ---- More Servers ---- */
+[src="/assets/6bb6b608827debf8ff08b1ae403acc59.png"] {
+    content: url(https://imgur.com/N0dRCdy.png) !important;
+}
+
+/* ------------------------------------------------------------ 🐻 OTHERS ------------------------------------------------------------ */
+
+/* ---- No Communities ---- */
+[src="/assets/6429567e7cc7b7c04d1791a58d21795d.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/noCommunities.svg) !important;
+}
+
+/* ---- Connected Now ---- */
+[src="/assets/b09888a1a6c74c8bb9af76ee61eb70e7.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/connectedNow.svg) !important;
+}
+
+/* ---- System Messages ---- */
+[src="/assets/808cc31ed06de30bacc3bbc88437b0f8.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/systemMessages.svg) !important;
+}
+
+/* ---- "Enable Community" Popup ---- */
+/* "Keep your community safe" */
+[src="/assets/fe3d06954b50aa53b1a088b1caa1462a.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/communitySafe.svg) !important;
+}
+/* "Set up the basics" */
+[src="/assets/78aa59ccfc53326f0459a72541bd9a51.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/communityBasics.svg) !important;
+}
+/* "One last step" */
+[src="/assets/4a5245103f9ed585ea37487ecabae871.svg"] {
+    content: url(https://kaiidoo.github.io/Newcord/assets/others/communityLast.svg) !important;
+}

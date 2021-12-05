@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 172 172">
+<g fill="none" stroke-miterlimit="10" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode:normal">
+    <path d="M0 172V0h172v172z"/>
+    <g fill="#2ECC71">
+    <path d="M71.667 25.083v53.75h-21.5L86 114.667l35.833-35.834h-21.5v-53.75c0-2.15-1.433-3.583-3.583-3.583h-21.5c-2.15 0-3.583 1.433-3.583 3.583z" opacity=".13"/>
+    <path d="M86 124.7L32.967 71.667H64.5V25.083c0-5.733 5.017-10.75 10.75-10.75h21.5c5.733 0 10.75 5.017 10.75 10.75v46.584h31.533zM67.367 86L86 104.633 104.633 86H93.167V28.667H78.833V86zm-53.034 57.333h143.334v14.334H14.333z"/>
+    </g>
+</g>
+</svg>

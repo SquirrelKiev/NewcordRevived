@@ -1,0 +1,18 @@
+/* ------------------------------------------------------------ 🐻 SOFT COLORS ------------------------------------------------------------ */
+
+.theme-dark,
+.theme-light {
+    --green: hsl(125, calc(var(--saturation-factor) * 29%), 75%);
+    --yellow: hsl(60, calc(var(--saturation-factor) * 71%), 77%);
+    --red: hsl(359, calc(var(--saturation-factor) * 86%), 70%);
+    --green2: hsla(125, calc(var(--saturation-factor) * 29%), 75%, 0.75);
+    --yellow2: hsla(60, calc(var(--saturation-factor) * 71%), 77%, 0.75);
+    --red2: hsla(359, calc(var(--saturation-factor) * 86%), 70%, 0.75);
+    --green3: hsla(125, calc(var(--saturation-factor) * 29%), 75%, 0.29);
+    --yellow3: hsla(60, calc(var(--saturation-factor) * 71%), 77%, 0.29);
+    --red3: hsla(359, calc(var(--saturation-factor) * 86%), 70%, 0.29);
+    --green4: hsla(125, calc(var(--saturation-factor) * 29%), 75%, 0.17);
+    --yellow4: hsla(60, calc(var(--saturation-factor) * 71%), 77%, 0.17);
+    --red4: hsla(359, calc(var(--saturation-factor) * 86%), 70%, 0.17);
+    --purple: hsl(261, calc(var(--saturation-factor) * 67%), 74%);
+}

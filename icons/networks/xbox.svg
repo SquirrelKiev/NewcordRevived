@@ -1,0 +1,22 @@
+<svg data-name="Xbox" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="clip-path">
+            <path class="cls-1" d="M0 0h30v30H0z"/>
+        </clipPath>
+        <style>.cls-1{fill:none}.cls-3{clip-path:url(#clip-path)}.cls-4{fill:white}</style>
+    </defs>
+    <circle cx="15" cy="15" r="15" fill="#107c10"/>
+    <path class="cls-1" d="M0 0h30v30H0z"/>
+    <g class="cls-3">
+        <path class="cls-4" d="M15 12a.09.09 0 01.05 0c4.48 3.41 12.17 11.85 9.82 14.23a15 15 0 01-19.74 0C2.78 23.91 10.47 15.46 15 12.06a.05.05 0 010-.06"/>
+    </g>
+    <g class="cls-3">
+        <path class="cls-4" d="M22.81 2.19a15 15 0 00-15.63 0 .08.08 0 000 .08h.07c2.91-.63 7.32 1.88 7.74 2.13H15c.42-.25 4.83-2.76 7.73-2.13h.07a.05.05 0 000-.08"/>
+    </g>
+    <g class="cls-3">
+        <path class="cls-4" d="M4.5 4.3a.2.2 0 00-.07.06 15 15 0 00-1.36 19.73h.08a.08.08 0 000-.08C2 20.49 7.87 11.92 10.89 8.33a.07.07 0 000-.05C6.31 3.69 4.75 4.17 4.5 4.3"/>
+    </g>
+    <g class="cls-3">
+        <path class="cls-4" d="M19.12 8.24v.05c3 3.59 8.87 12.16 7.72 15.7a.06.06 0 000 .08.07.07 0 00.08 0 15 15 0 00-1.35-19.72h-.07c-.25-.13-1.81-.61-6.38 3.94"/>
+    </g>
+</svg>

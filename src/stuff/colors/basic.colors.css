@@ -1,0 +1,18 @@
+/* ------------------------------------------------------------ 🌷 BASIC COLORS ------------------------------------------------------------ */
+
+.theme-dark,
+.theme-light {
+    --green: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);
+    --yellow: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);
+    --red: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);
+    --green2: hsla(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%, 0.75);
+    --yellow2: hsla(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%, 0.75);
+    --red2: hsla(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%, 0.75);
+    --green3: hsla(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%, 0.29);
+    --yellow3: hsla(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%, 0.29);
+    --red3: hsla(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%, 0.29);
+    --green4: hsla(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%, 0.17);
+    --yellow4: hsla(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%, 0.17);
+    --red4: hsla(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%, 0.17);
+    --purple: hsl(264, calc(var(--saturation-factor, 1) * 100%), 64%);
+}

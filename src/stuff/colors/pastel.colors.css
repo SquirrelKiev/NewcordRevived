@@ -1,0 +1,18 @@
+/* ------------------------------------------------------------ 🌱 PASTEL COLORS ------------------------------------------------------------ */
+
+.theme-dark,
+.theme-light {
+    --green: hsl(104, calc(var(--saturation-factor) * 50%), 79%);
+    --yellow: hsl(54, calc(var(--saturation-factor) * 84%), 83%);
+    --red: hsl(359, calc(var(--saturation-factor) * 55%), 61%);
+    --green2: hsla(104, calc(var(--saturation-factor) * 50%), 79%, 0.75);
+    --yellow2: hsla(54, calc(var(--saturation-factor) * 84%), 83%, 0.75);
+    --red2: hsla(359, calc(var(--saturation-factor) * 55%), 61%, 0.75);
+    --green3: hsla(104, calc(var(--saturation-factor) * 50%), 79%, 0.29);
+    --yellow3: hsla(54, calc(var(--saturation-factor) * 84%), 83%, 0.29);
+    --red3: hsla(359, calc(var(--saturation-factor) * 55%), 61%, 0.29);
+    --green4: hsla(104, calc(var(--saturation-factor) * 50%), 79%, 0.17);
+    --yellow4: hsla(54, calc(var(--saturation-factor) * 84%), 83%, 0.17);
+    --red4: hsla(359, calc(var(--saturation-factor) * 55%), 61%, 0.17);
+    --purple: hsl(274, calc(var(--saturation-factor) * 22%), 59%);
+}
