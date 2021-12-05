@@ -1,11 +1,11 @@
 # How to install Newcord on macOS [![Download][download-badge]][download-link] [![Support][support-badge]][support-link]
 
-[download-badge]: https://kaiidoo.github.io/Newcord/icons/github/download.svg
-[download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
-[support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
-[support-link]: https://github.com/Kaiidoo/Newcord/issues
+[download-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/download.svg
+[support-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/support.svg
+[download-link]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/newcord.theme.css
+[support-link]: https://github.com/SquirrelKiev/NewcordRevived/issues
 
-First of all, go on this [page](https://kaiidoo.github.io/Newcord/src/newcord.theme.css), right-click, click "save as" and save it wherever you want ( In the downloads folder for example. What matters is that you can find it ).
+First of all, go on this [page][download-link], right-click, click "save as" and save it wherever you want ( In the downloads folder for example. What matters is that you can find it ).
 
 Then, you need to go to the Themes tab of BetterDiscord and click on "Open Themes Folder" to access the themes folder.
 
