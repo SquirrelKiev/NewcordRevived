@@ -7,7 +7,7 @@
 
 A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
-![Banner](https://imgur.com/i3S1GGI.png)
+![Banner](https://i.imgur.com/wETAyVA.png)
 
 ## Installation guide
 
@@ -33,14 +33,10 @@ Coming soon, sorry . . .
 
 ##### Home
 
-![Screenshot1](https://imgur.com/oV98fvb.png)
+![Screenshot1](https://i.imgur.com/YDMGVNL.png)
 
 ##### Settings
 
-![Screenshot2](https://imgur.com/7VXDMbQ.png)
-
-##### Server Settings
-
-![Screenshot3](https://imgur.com/MZD1Sj5.png)
+![Screenshot2](https://i.imgur.com/bYrxbPt.png)
 
 #### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
