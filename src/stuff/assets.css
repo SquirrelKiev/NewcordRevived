@@ -39,9 +39,8 @@
 /* ---- online Tab ---- */
 /* Image */
 .theme-dark
-    [style*='background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'],
-.theme-dark
-    [style*='background-image: url("/assets/d834d700306f3838c0facef39e7d8a38.svg");'] {
+    [style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");'],
+	[style*='background-image: url("/assets/fd879a28807b66b38d54e7db6ea18a69.svg");'] {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/friends%20tabs/onlineTab.svg) !important;
 }
 /* Text */
@@ -81,7 +80,9 @@
 /* ---- pending Tab ---- */
 /* Image */
 [style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'],
-[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'] {
+[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'],
+[style*='background-image: url("/assets/b36c705f790dad253981f1893085015a.svg");'],
+[style*='background-image: url("/assets/36c9a2fb7d0593a581a92373121c2848.svg");'] {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/friends%20tabs/pendingTab.svg) !important;
 }
 /* Text */
@@ -134,61 +135,6 @@
     content: "Eux deux attendent des amis pour jouer. Mais rien ne t'oblige à en ajouter !";
 }
 
-/* ------------------------------------------------------------ 🌱 NITRO PAGE ------------------------------------------------------------ */
-
-/* ---- Make Discord Yours ---- */
-.hero-1aNo0v {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/makeDiscordYours.svg) !important;
-}
-
-/* ---- Style Your Profile ---- */
-[src="/assets/d7ff363b09ab2d8cec4f4a4933fcd589.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/styleYourProfile.svg) !important;
-}
-
-/* ---- Special Stickers Access ---- */
-[src="/assets/9e6263705c5d39cd4f3c26b353208b29.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/specialStickersAccess.svg) !important;
-}
-.stickers-2JFQr2 .featureTitle-3N9Stg {
-    text-transform: capitalize;
-}
-
-/* ---- More Emoji Power ---- */
-[src="/assets/ac6a1118b3a9266551ac5fe1cc6f05ca.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/moreEmojiPower.svg) !important;
-}
-
-/* ---- Personalized Profile ---- */
-[src="/assets/844d97f0961fcfd35bb12d450f21b076.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/personalizedProfile.svg) !important;
-}
-
-/* ---- Support Your Server ---- */
-[src="/assets/d4053689db0ab9e30abcfd4737017598.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/supportYourServer.svg) !important;
-}
-
-/* ---- Rep Your Status ---- */
-[src="/assets/dfbe1ee67ae724b485a7d61961457f17.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/repYourStatus.svg) !important;
-}
-
-/* ---- Bigger Uploads ---- */
-[src="/assets/ee4463cea419cc2442892787bc27c435.png"] {
-    content: url(https://imgur.com/okPlmip.png) !important;
-}
-
-/* ---- Longer Messages ---- */
-[src="/assets/cb42ba50d7cf18fc9853d40ecd26bf8f.svg"] {
-    content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/longerMessages.svg) !important;
-}
-
-/* ---- More Servers ---- */
-[src="/assets/6bb6b608827debf8ff08b1ae403acc59.png"] {
-    content: url(https://imgur.com/N0dRCdy.png) !important;
-}
-
 /* ------------------------------------------------------------ 🐻 OTHERS ------------------------------------------------------------ */
 
 /* ---- No Communities ---- */
@@ -202,20 +148,20 @@
 }
 
 /* ---- System Messages ---- */
-[src="/assets/808cc31ed06de30bacc3bbc88437b0f8.svg"] {
+[src="/assets/5a6c298c68b5963581a107d420352d07.svg"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/assets/others/systemMessages.svg) !important;
 }
 
 /* ---- "Enable Community" Popup ---- */
 /* "Keep your community safe" */
-[src="/assets/fe3d06954b50aa53b1a088b1caa1462a.svg"] {
+[src="/assets/070f1b98adc8ce07c7823021133efed5.svg"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/assets/others/communitySafe.svg) !important;
 }
 /* "Set up the basics" */
-[src="/assets/78aa59ccfc53326f0459a72541bd9a51.svg"] {
+[src="/assets/d8a03b9985d824edc78c6eb4785dc949.svg"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/assets/others/communityBasics.svg) !important;
 }
 /* "One last step" */
-[src="/assets/4a5245103f9ed585ea37487ecabae871.svg"] {
+[src="/assets/b6193b9564ca0ecbbd1ed6b80f47646d.svg"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/assets/others/communityLast.svg) !important;
 }

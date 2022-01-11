@@ -522,6 +522,11 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     background-color: #ed42452a;
 }
 
+/* Sticker Wave */
+.theme-dark.lookFilled-yCfaCM.colorPrimary-2AuQVo {
+	background-color: var(--background-secondary);
+}
+
 /* ---- Upload ---- */
 .theme-dark .uploadModal-2ie9O_ {
     background-color: var(--background-primary);
