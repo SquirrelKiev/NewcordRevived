@@ -23,19 +23,19 @@
     height: calc(100vh + (var(--background-image-blur) * 2));
     width: calc(100vw + (var(--background-image-blur) * 2));
 }
-#app-mount .layers-3iHuyZ,
-#app-mount .layerContainer-yqaFcK {
+#app-mount .layers-OrUESM,
+#app-mount .layerContainer-2v_Sit {
     overflow: hidden;
     margin: var(--window-padding);
     border-radius: var(--window-roundness);
 }
-#app-mount .layer-3QrUeG.baseLayer-35bLyl {
+#app-mount .layer-86YKbF.baseLayer-W6S8cY {
     background-color: var(--background-tertiary);
 }
 #app-mount,
 body,
-.app-2rEoOp,
-.bg-h5JY_x {
+.app-2CXKsg,
+.bg-1QIAus {
     background-color: transparent;
 }
 
@@ -45,7 +45,7 @@ body,
 .platform-win .scroller-2TZvBN {
     padding-top: 10px;
 }
-.platform-win .typeWindows-1za-n7 {
+.platform-win .typeWindows-2-g3UY {
     height: 10px;
     width: 100%;
     top: 1px;
@@ -54,46 +54,46 @@ body,
     position: absolute;
     background: transparent;
 }
-.platform-win .winButton-iRh8-Z {
+.platform-win .winButton-3UMjdg {
     position: relative;
     top: calc(var(--TB-position-top, 0px) - 1px);
     right: var(--TB-position-right, 0px);
     height: var(--TB-height, 48px);
     width: var(--TB-width, 40px);
 }
-.platform-win .winButtonClose-1HsbF- {
+.platform-win .winButtonClose-3Q8ZH5 {
     border-top-right-radius: var(--TB-tr-roundness);
 }
-.platform-win .container-1r6BKw {
+.platform-win .container-ZMc96U {
     padding-right: var(--TB-header-padding, 125px);
 }
-.platform-win .wordmarkWindows-1v0lYD {
+.platform-win .wordmarkWindows-2dq6rw {
     display: none;
 }
-.platform-win .bd-detached-editor .winButton-iRh8-Z {
+.platform-win .bd-detached-editor .winButton-3UMjdg {
     right: 30%;
 }
 
 /* ---- Colors and Transitions ---- */
-.winButtonClose-1HsbF- {
+.winButtonClose-3Q8ZH5 {
     transition: ease-out 0.4s;
     color: var(--red);
 }
-.winButtonClose-1HsbF-:hover {
+.winButtonClose-3Q8ZH5:hover {
     color: var(--red);
     background-color: var(--red4);
 }
-.winButtonMinMax-PBQ2gm:nth-child(3) {
+.winButtonMinMax-3RsPUg:nth-child(3) {
     transition: ease-out 0.4s;
     color: var(--yellow);
 }
-.winButtonMinMax-PBQ2gm:nth-child(3):hover {
+.winButtonMinMax-3RsPUg:nth-child(3):hover {
     background-color: var(--yellow4);
 }
-.winButtonMinMax-PBQ2gm:last-child {
+.winButtonMinMax-3RsPUg:last-child {
     transition: ease-out 0.4s;
     color: var(--green);
 }
-.winButtonMinMax-PBQ2gm:last-child:hover {
+.winButtonMinMax-3RsPUg:last-child:hover {
     background-color: var(--green4);
 }

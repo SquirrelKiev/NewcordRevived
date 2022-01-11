@@ -1,34 +1,34 @@
 /* ------------------------------------------------------------ 🌷 FRIENDS TABS ------------------------------------------------------------ */
 
 /* ---- Images Base ---- */
-.marginBottom40-2vIwTv {
+.marginBottom40-fvAlAV {
     margin-bottom: 10px;
 }
-.image-1GzsFd.marginBottom40-2vIwTv[style] {
+.image-20MDYu.marginBottom40-fvAlAV[style] {
     width: 415px !important;
     height: 250px !important;
 }
 
 /* ---- Texts Base ---- */
-.theme-dark .peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+.theme-dark .peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after {
     content: "";
 }
-.marginTop8-1DLZ1n {
+.marginTop8-24uXGp {
     margin-top: 0;
 }
-#ONLINE-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
-#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
-#PENDING-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
-#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n,
-#ADD_FRIEND-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n {
+#online-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp,
+#all-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp,
+#pending-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp,
+#blocked-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp,
+#add_friend-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp {
     visibility: hidden;
     position: relative;
 }
-#ONLINE-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
-#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
-#PENDING-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
-#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after,
-#ADD_FRIEND-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+#online-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after,
+#all-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after,
+#pending-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after,
+#blocked-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after,
+#add_friend-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after {
     visibility: visible;
     position: absolute;
     top: 0;
@@ -36,7 +36,7 @@
     color: var(--text-muted);
 }
 
-/* ---- ONLINE Tab ---- */
+/* ---- online Tab ---- */
 /* Image */
 .theme-dark
     [style*='background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'],
@@ -46,39 +46,39 @@
 }
 /* Text */
 [lang="en-GB"]
-    #ONLINE-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #online-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "There is no one around. You should take a look at the tavern, there are lots of people there!";
     width: 415px;
     left: -70px;
 }
 [lang="fr"]
-    #ONLINE-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #online-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "Il n'y a personne aux alentours. Tu devrais jeter un coup d'œil à la taverne, il y a plein de monde là-bas !";
     width: 415px;
     left: -70px;
 }
 
-/* ---- ALL Tab ---- */
+/* ---- all Tab ---- */
 /* Image */
-#ALL-tab.peopleColumn-29fq28 .image-1GzsFd {
+#all-tab.peopleColumn-1wMU14 .image-20MDYu {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/friends%20tabs/allTab.svg) !important;
 }
 /* Text */
-#ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n {
+#all-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp {
     margin-bottom: 10px;
 }
 [lang="en-GB"]
-    #ALL-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #all-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "You have no friends for the moment ... You should try to go in a server for meet some people!";
 }
-[lang="fr"] #ALL-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+[lang="fr"] #all-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after {
     content: "Tu n'as pas d'amis pour le moment ... Tu devrais essayer d'aller dans un serveur pour rencontrer des gens !";
 }
 
-/* ---- PENDING Tab ---- */
+/* ---- pending Tab ---- */
 /* Image */
 [style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'],
 [style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'] {
@@ -86,58 +86,58 @@
 }
 /* Text */
 [lang="en-GB"]
-    #PENDING-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #pending-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "There are no pending friend requests. But as they say, it's not the number that counts!";
 }
 [lang="fr"]
-    #PENDING-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #pending-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "Il n'y a pas de demandes d'ami en attente. Mais comme on dit, ce n'est pas le nombre qui compte !";
 }
 
-/* ---- BLOCKED Tab ---- */
+/* ---- blocked Tab ---- */
 /* Image */
 [style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'],
 [style*='background-image: url("/assets/645df33d735507f39c78ce0cac7437f0.svg");'] {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/friends%20tabs/blockedTab.svg) !important;
 }
 /* Text */
-#BLOCKED-tab.peopleColumn-29fq28 .text-GwUZgS.marginTop8-1DLZ1n:after {
+#blocked-tab.peopleColumn-1wMU14 .text-27cdrj.marginTop8-24uXGp:after {
     left: 10px;
 }
 [lang="en-GB"]
-    #BLOCKED-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #blocked-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "Waw, it's strangely quiet here!";
 }
 [lang="fr"]
-    #BLOCKED-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #blocked-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "Waw, c'est drôlement calme ici !";
 }
 
 /* ---- ADD FRIEND Tab ---- */
 /* Image */
-#ADD_FRIEND-tab.peopleColumn-29fq28 .image-1GzsFd {
+#add_friend-tab.peopleColumn-1wMU14 .image-20MDYu {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/friends%20tabs/addFriendTab.svg) !important;
 }
 /* Text */
 [lang="en-GB"]
-    #ADD_FRIEND-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
-    content: "They two are waiting for friends to play. But nothing forces you to add more!";
+    #add_friend-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
+    content: "These two are waiting for friends to play. But nothing is stopping you from adding more!";
 }
 [lang="fr"]
-    #ADD_FRIEND-tab.peopleColumn-29fq28
-    .text-GwUZgS.marginTop8-1DLZ1n:after {
+    #add_friend-tab.peopleColumn-1wMU14
+    .text-27cdrj.marginTop8-24uXGp:after {
     content: "Eux deux attendent des amis pour jouer. Mais rien ne t'oblige à en ajouter !";
 }
 
 /* ------------------------------------------------------------ 🌱 NITRO PAGE ------------------------------------------------------------ */
 
 /* ---- Make Discord Yours ---- */
-.hero-EvfTTA {
+.hero-1aNo0v {
     background-image: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/makeDiscordYours.svg) !important;
 }
 
@@ -150,7 +150,7 @@
 [src="/assets/9e6263705c5d39cd4f3c26b353208b29.svg"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/assets/nitro/specialStickersAccess.svg) !important;
 }
-.stickers-1O9_W6 .featureTitle-W5O6R1 {
+.stickers-2JFQr2 .featureTitle-3N9Stg {
     text-transform: capitalize;
 }
 
