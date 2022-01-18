@@ -13,11 +13,6 @@ A revival of a colorful and customizable BetterDiscord theme inspired by the fir
 
 To download the theme, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder.
 
-If you need a more detailed guide here's one for Windows and one for macOS:
-
--   [Windows](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/windows.md)
--   [macOS](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/macOS.md)
-
 ## Features to come (soontm)
 
 -   A plugin to customize the theme directly in Discord's appearance settings.
