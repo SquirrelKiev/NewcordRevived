@@ -997,7 +997,7 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     border: 0;
 }
 .tabBarItem-30Te4-.item-3XjbnG.selected-g-kMVV.themed-2-lozF[aria-selected="true"] {
-    background-color: var(--background-secondary) !important;
+    /*background-color: var(--background-secondary) !important;*/
     color: var(--text-normal);
 }
 .body-1Ukv50 {
