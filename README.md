@@ -33,4 +33,4 @@ If you need a more detailed guide here's one for Windows and one for macOS:
 
 ![Screenshot2](https://i.imgur.com/bYrxbPt.png)
 
-#### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
+#### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo), Fixed up by [SquirrelKiev](https://github.com/SquirrelKiev)**
