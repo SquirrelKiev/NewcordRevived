@@ -18,7 +18,7 @@ If you need a more detailed guide here's one for Windows and one for macOS:
 -   [Windows](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/windows.md)
 -   [macOS](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/macOS.md)
 
-## Features to come (soomtm)
+## Features to come (soontm)
 
 -   A plugin to customize the theme directly in Discord's appearance settings.
 -   The possibility to customize the background when the windows padding is activated.
