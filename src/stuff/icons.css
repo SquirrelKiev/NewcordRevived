@@ -310,6 +310,12 @@
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
+    .item-3XjbnG[aria-controls="theme-toggler-tab" i]::before {
+    -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/themes.svg)
+        center/contain no-repeat;
+}
+.sidebar-nqHbhN
+    .side-2ur1Qk
     .item-3XjbnG[aria-controls="PluginRepo-tab" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/pluginRepo.svg)
         center/contain no-repeat;
