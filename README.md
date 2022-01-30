@@ -5,7 +5,7 @@
 [download-link]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/newcord.theme.css
 [support-link]: https://github.com/SquirrelKiev/NewcordRevived/issues
 
-A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
+A revival of a colorful and customizable BetterDiscord/Powercord theme inspired by the first page of Discord's website.
 
 ![Banner](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/NewcordBanner.png)
 
