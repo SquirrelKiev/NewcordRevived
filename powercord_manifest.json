@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "author": "₊˚ʚ 𝑘𝑎𝑖𝑑𝑜ˊ˗, Revived by SquirrelKiev.",
     "license": "MIT",
-    "theme": "src/newcord.powercordtheme.scss",
+    "theme": "src/newcord.theme.css",
     "description": "A revival of a colorful theme inspired by the first page of Discord's website. Note that this isn't the most up-to-date version of Newcord, rather the only copy of the repo I could find. "
 }
