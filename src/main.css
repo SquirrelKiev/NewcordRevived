@@ -1382,3 +1382,8 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 .theme-dark .markdown-19oyJN code {
     background-color: var(--background-secondary);
 }
+
+/* ---- SearchBox ---- */
+.theme-dark .option-ayUoaq:after {
+    background: #00000000;
+}
