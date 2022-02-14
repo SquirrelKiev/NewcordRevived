@@ -649,6 +649,10 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     background: #00000000;
 }
 
+.theme-dark .searchFilter-2UfsDk{
+    background-color: var(--background-secondary);
+}
+
 /* ---- Channels Bar ---- */
 /* Stream Preview */
 .theme-dark .streamPreview-3qoMP4 {
