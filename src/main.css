@@ -649,7 +649,7 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     background: #00000000;
 }
 
-.theme-dark .searchFilter-2UfsDk{
+.theme-dark .searchFilter-2UfsDk, .theme-dark .searchAnswer-23w-CH{
     background-color: var(--background-secondary);
 }
 
