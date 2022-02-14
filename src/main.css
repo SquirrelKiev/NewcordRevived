@@ -631,15 +631,22 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     border-radius: var(--border-radius-2);
 }
 .container-2McqkF {
-    background-color: var(--background-tertiary) !important;
+    background-color: var(--background-secondary-alt) !important;
     border-radius: var(--border-radius-2);
     border: 1px solid var(--background-tertiary);
+}
+.focused-2FU0YH {
+    background-color: var(--background-tertiary) !important;
 }
 .option-2KkUJO:after {
     display: none;
 }
 .theme-dark .option-2KkUJO.selected-rZcOL- {
     background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .option-ayUoaq:after {
+    background: #00000000;
 }
 
 /* ---- Channels Bar ---- */
@@ -1381,9 +1388,4 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 /* ---- Code ---- */
 .theme-dark .markdown-19oyJN code {
     background-color: var(--background-secondary);
-}
-
-/* ---- SearchBox ---- */
-.theme-dark .option-ayUoaq:after {
-    background: #00000000;
 }
