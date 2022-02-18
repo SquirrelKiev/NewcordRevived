@@ -698,6 +698,15 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
 .userPopout-2j1gM4 {
     max-height: calc(100vh - 40px);
 }
+.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B{
+    background-color: var(--background-secondary);
+}
+.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B:hover{
+    background-color: var(--background-secondary-alt);
+}
+.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B:active{
+    background-color: var(--background-tertiary);
+}
 /* Roles */
 .body-2wLx-E .rolesList-3uZoaa .role-2TIOKu {
     position: relative;
