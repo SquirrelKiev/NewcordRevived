@@ -411,6 +411,24 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
 #guild-header-popout-premium-subscribe:active:not(.hideInteraction-2jPGL_) {
     background-color: #ff73fa2a;
 }
+.theme-dark .perksModal-CLcR1c {
+    background-color: var(--background-primary);
+}
+.theme-dark .tierBody-3ju-rc{
+    background-color: var(--background-secondary)
+}
+.theme-dark .perk-19D_HN{
+    background-color: var(--background-secondary)
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo{
+    background-color: var(--background-secondary-alt)
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:disabled{
+    background-color: var(--background-secondary-alt);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:active, .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover{
+    background-color: var(--background-tertiary);
+}
 /* Invite People */
 #guild-header-popout-invite-people:hover .icon-E4cW1l,
 #guild-header-popout-invite-people:active:not(.hideInteraction-2jPGL_)
