@@ -92,6 +92,11 @@
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #181926;
     --deprecated-text-input-prefix: #dcddde;
+	/* ---- Powercord ---- */
+	--toast-background: var(--background-secondary);
+	--toast-header: var(--background-tertiary);
+	--toast-contents: var(--background-primary);
+	
 }
 .theme-dark,
 .theme-light {
