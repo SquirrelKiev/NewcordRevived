@@ -82,6 +82,8 @@
     --channeltextarea-background: #30304f;
     --activity-card-background: #181926;
     --textbox-markdown-syntax: #8e9297;
+    --input-background: var(--background-tertiary);
+	
     --deprecated-card-bg: rgba(24, 25, 38, 0.6);
     --deprecated-card-editable-bg: rgba(24, 25, 38, 0.3);
     --deprecated-store-bg: #292841;
