@@ -100,3 +100,12 @@ body,
 .winButtonMinMax-3RsPUg:last-child:hover {
     background-color: var(--green4);
 }
+
+.notice-2HEN-u {
+    padding-right: calc(var(--TB-width, 40px) * 4);
+}
+
+.closeButton-30b1gR {
+    margin-right: calc(var(--TB-width, 40px) * 3);
+    width: var(--TB-width, 40px);
+}
