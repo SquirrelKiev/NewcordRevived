@@ -1,64 +1,33 @@
 /* ------------------------------------------------------------ 🌷 CONNECTIONS ------------------------------------------------------------ */
 
-[style*='background-image: url("/assets/edbbf6107b2cd4334d582b26e1ac786d.png");'] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/twitch.svg) !important;
-}
-[style*='background-image: url("/assets/449cca50c1452b4ace3cbe9bc5ae0fd6.png");'] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/youtube.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Battle.net"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/battleNet.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Steam"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/steam.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Reddit"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/reddit.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Facebook"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/facebook.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Twitter"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/twitter.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Spotify"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/spotify.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="Xbox Live"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/xbox.svg) !important;
-}
-.inner-1lPVFp.accountBtnInner-3XK70s[aria-label="GitHub"] {
-    background-image: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/github.svg) !important;
-}
-
-[src="/assets/edbbf6107b2cd4334d582b26e1ac786d.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Twitch"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/twitch.svg) !important;
 }
-[src="/assets/449cca50c1452b4ace3cbe9bc5ae0fd6.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="YouTube"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/youtube.svg) !important;
 }
-[src="/assets/8c289d499232cd8e9582b4a5639d9d1d.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Battle.net"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/battleNet.svg) !important;
 }
-[src="/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Steam"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/steam.svg) !important;
 }
-[src="/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Reddit"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/reddit.svg) !important;
 }
-[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Facebook"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/facebook.svg) !important;
 }
-[src="/assets/4662875160dc4c56954003ebda995414.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Twitter"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/twitter.svg) !important;
 }
-[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Spotify"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/spotify.svg) !important;
 }
-[src="/assets/0d44ba28e39303de3832db580a252456.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="Xbox Live"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/xbox.svg) !important;
 }
-[src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] {
+.connectedAccountIcon-1FXG0p[aria-label="GitHub"] {
     content: url(https://squirrelkiev.github.io/NewcordRevived/icons/networks/github.svg) !important;
 }
 
@@ -93,166 +62,130 @@
 /* User Settings */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="My Account-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="My-Account-tab" i]::before {
+    .item-3XjbnG[data-item-id="MyAccount" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/myAccount.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Profile Customization-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Profile-Customization-tab" i]::before {
+    .item-3XjbnG[data-item-id="ProfileCustomization" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/userProfile.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Privacy & Safety-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Privacy-&-Safety-tab" i]::before {
+    .item-3XjbnG[data-item-id="PrivacynSafety" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/privacyAndSafety.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Authorized Apps-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Authorized-Apps-tab" i]::before {
+    .item-3XjbnG[data-item-id="AuthorizedApps" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/authorisedApps.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Connections-tab" i]::before {
+    .item-3XjbnG[data-item-id="Passport" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/connections.svg)
         center/contain no-repeat;
 }
 /* Billing Settings */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Discord Nitro-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Discord-Nitro-tab" i]::before {
+    .item-3XjbnG[data-item-id="DiscordNitro" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/discordNitro.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Nitro Server Boost-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Nitro-Server-Boost-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="GUILD_PREMIUM-tab" i]::before {
+    .item-3XjbnG[data-item-id="NitroServerBoost" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/serverBoost.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Library Inventory-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Library-Inventory-tab" i]::before {
+    .item-3XjbnG[data-item-id="LibraryInventory" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/giftInventory.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Billing-tab" i]::before {
+    .item-3XjbnG[data-item-id="Billing" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/billing.svg)
         center/contain no-repeat;
 }
 /* App Settings */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Appearance-tab" i]::before {
+    .item-3XjbnG[data-item-id="Appearance" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/appearance.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Accessibility-tab" i]::before {
+    .item-3XjbnG[data-item-id="Accessibility" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/accessibility.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Voice & Video-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Voice-&-Video-tab" i]::before {
+    .item-3XjbnG[data-item-id="VoicenVideo" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/voiceAndVideo.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Text & Images-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Text-&-Images-tab" i]::before {
+    .item-3XjbnG[data-item-id="TextnImages" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/textAndImage.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Notifications-tab" i]::before {
+    .item-3XjbnG[data-item-id="Notifications" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/notifications.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Keybinds-tab" i]::before {
+    .item-3XjbnG[data-item-id="Keybinds" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/keybinds.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Language-tab" i]::before {
+    .item-3XjbnG[data-item-id="Language" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/language.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Windows-tab" i]::before {
+    .item-3XjbnG[data-item-id="Windows" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/windowsSettings.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Streamer Mode-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Streamer-Mode-tab" i]::before {
+    .item-3XjbnG[data-item-id="StreamerMode" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/streamerMode.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Advanced-tab" i]::before {
+    .item-3XjbnG[data-item-id="Advanced" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/advanced.svg)
         center/contain no-repeat;
 }
 /* Activity Settings */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Game Activity-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Game-Activity-tab" i]::before {
+    .item-3XjbnG[data-item-id="GameActivity" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/activityStatus.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Overlay-tab" i]::before {
+    .item-3XjbnG[data-item-id="Overlay" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/gameOverlay.svg)
         center/contain no-repeat;
 }
@@ -261,18 +194,18 @@
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-settings-tab::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="pc-general-tab" i]::before,
+    .item-3XjbnG[data-item-id="pc-general" i]::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="lightcord-tab" i]::before,
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="core-tab" i]::before,
+    .item-3XjbnG[data-item-id="lightcord" i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[data-item-id="core" i]::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Settings-tab" i]::before {
+    .item-3XjbnG[data-item-id="Settings" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/settings.svg)
         center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="Emotes-tab" i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[data-item-id="Emotes" i]::before,
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before,
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-emotes-tab::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/emotes.svg)
@@ -282,7 +215,10 @@
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-customcss-tab::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="CustomCSS-tab" i]::before {
+    .item-3XjbnG[data-item-id="CustomCSS" i]::before,
+    .sidebar-nqHbhN
+    .side-2ur1Qk
+    .item-3XjbnG[data-item-id="pc-moduleManager-css" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/customCss.svg)
         center/contain no-repeat;
 }
@@ -290,10 +226,10 @@
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-plugins-tab::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Plugins-tab" i]::before,
+    .item-3XjbnG[data-item-id="Plugins" i]::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="pc-moduleManager-plugins-tab" i]::before {
+    .item-3XjbnG[data-item-id="pc-moduleManager-plugins" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/plugins.svg)
         center/contain no-repeat;
 }
@@ -301,70 +237,58 @@
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-themes-tab::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="pc-moduleManager-themes-tab" i]::before,
+    .item-3XjbnG[data-item-id="pc-moduleManager-themes" i]::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Themes-tab" i]::before {
+    .item-3XjbnG[data-item-id="Themes" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/themes.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="theme-toggler-tab" i]::before {
+    .item-3XjbnG[data-item-id="theme-toggler" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/themes.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="PluginRepo-tab" i]::before {
+    .item-3XjbnG[data-item-id="PluginRepo" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/pluginRepo.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="ThemeRepo-tab" i]::before {
+    .item-3XjbnG[data-item-id="ThemeRepo" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/themeRepo.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="ChangeLog-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Change Log-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Change-Log-tab" i]::before {
+    .item-3XjbnG[data-item-id="ChangeLog" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/changeLog.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Hypesquad Online-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Hypesquad-Online-tab" i]::before {
+    .item-3XjbnG[data-item-id="HypesquadOnline" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/hypesquad.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Experiments-tab" i]::before {
+    .item-3XjbnG[data-item-id="Experiments" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/experiments.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Developer Options-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Developer-Options-tab" i]::before {
+    .item-3XjbnG[data-item-id="DeveloperOptions" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/developerOptions.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="Logout-tab" i]::before {
+    .item-3XjbnG[data-item-id="Logout" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/logOut.svg)
         center/contain no-repeat;
 }
@@ -372,121 +296,132 @@
 /* ---- Server Settings ---- */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="OVERVIEW-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="accountinfo-tab" i]::before {
+    .item-3XjbnG[data-item-id="OVERVIEW" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/overview.svg)
         center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="ROLES-tab" i]::before,
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="PERMISSIONS-tab" i]::before {
+    .item-3XjbnG[data-item-id="ROLES" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/roles.svg)
         center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="EMOJI-tab" i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[data-item-id="EMOJI" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/emoji.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="STICKERS-tab" i]::before {
+    .item-3XjbnG[data-item-id="STICKERS" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/stickers.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="MODERATION-tab" i]::before {
+    .item-3XjbnG[data-item-id="MODERATION" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/moderation.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="AUDIT_LOG-tab" i]::before {
+    .item-3XjbnG[data-item-id="AUDIT_LOG" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/auditLog.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="INTEGRATIONS-tab" i]::before,
-.sidebar-nqHbhN
-    .side-2ur1Qk
-    .item-3XjbnG[aria-controls="status-tab" i]::before {
+    .item-3XjbnG[data-item-id="INTEGRATIONS" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/integrations.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="WIDGET-tab" i]::before {
+    .item-3XjbnG[data-item-id="WIDGET" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/widget.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="GUILD_TEMPLATES-tab" i]::before {
+    .item-3XjbnG[data-item-id="GUILD_TEMPLATES" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/serverTemplates.svg)
         center/contain no-repeat;
 }
 /* Community */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="COMMUNITY-tab" i]::before {
+    .item-3XjbnG[data-item-id="COMMUNITY" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/communityOverview.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="ANALYTICS-tab" i]::before {
+    .item-3XjbnG[data-item-id="ANALYTICS" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/serverInsights.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="PARTNER-tab" i]::before {
+    .item-3XjbnG[data-item-id="PARTNER" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/partnerProgram.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="MEMBER_VERIFICATION-tab" i]::before {
+    .item-3XjbnG[data-item-id="MEMBER_VERIFICATION" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/membershipScreening.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="DISCOVERY-tab" i]::before {
+    .item-3XjbnG[data-item-id="DISCOVERY" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/discovery.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="COMMUNITY_WELCOME-tab" i]::before {
+    .item-3XjbnG[data-item-id="COMMUNITY_WELCOME" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/welcomeScreen.svg)
         center/contain no-repeat;
 }
 /* User Management */
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="MEMBERS-tab" i]::before {
+    .item-3XjbnG[data-item-id="MEMBERS" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/members.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="INSTANT_INVITES-tab" i]::before {
+    .item-3XjbnG[data-item-id="INSTANT_INVITES" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/invites.svg)
         center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="BANS-tab" i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[data-item-id="BANS" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/bans.svg)
         center/contain no-repeat;
 }
 .sidebar-nqHbhN
     .side-2ur1Qk
-    .item-3XjbnG[aria-controls="DELETE-tab" i]::before {
+    .item-3XjbnG[data-item-id="DELETE" i]::before {
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/deleteServer.svg)
+        center/contain no-repeat;
+}
+.sidebar-nqHbhN
+    .side-2ur1Qk
+    .item-3XjbnG[data-item-id="GUILD_PREMIUM" i]::before {
+    -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/serverBoost.svg)
+        center/contain no-repeat;
+    }
+.sidebar-nqHbhN
+    .side-2ur1Qk
+    .item-3XjbnG[data-item-id="GUILD_AUTOMOD" i]::before {
+    -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/widget.svg)
+        center/contain no-repeat;
+}
+.sidebar-nqHbhN
+    .side-2ur1Qk
+    .item-3XjbnG[data-item-id="VANITY_URL" i]::before {
+    -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/invites.svg)
         center/contain no-repeat;
 }
 
