@@ -1431,3 +1431,12 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 .theme-dark .zoomedCarouselModalRoot-beLNhM {
 	background-color: transparent;
 }
+
+/* ---- Threads ---- */
+.list-3FIpnh {
+	background-color: var(--background-primary);
+}
+
+.mainCard-3KBsBI.container-2qVG6q  {
+	background-color: var(--background-secondary);
+}
