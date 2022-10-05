@@ -32,7 +32,7 @@
 }
 
 /* ------------------------------------------------------------ 🌱 SIDEBARS ------------------------------------------------------------ */
-
+/*
 #bd-settings-sidebar .ui-tab-bar-item,
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG {
     display: flex;
@@ -57,9 +57,10 @@
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG .icon-3Povsy {
     transform: scaleX(calc(1 - var(--usesettingsicons)));
 }
-
+*/
 /* ---- Personal Settings ---- */
 /* User Settings */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="MyAccount" i]::before {
@@ -90,7 +91,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/connections.svg)
         center/contain no-repeat;
 }
+*/
 /* Billing Settings */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="DiscordNitro" i]::before {
@@ -115,7 +118,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/billing.svg)
         center/contain no-repeat;
 }
+*/
 /* App Settings */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="Appearance" i]::before {
@@ -176,7 +181,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/advanced.svg)
         center/contain no-repeat;
 }
+*/
 /* Activity Settings */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="GameActivity" i]::before {
@@ -189,7 +196,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/gameOverlay.svg)
         center/contain no-repeat;
 }
+*/
 /* BetterDiscord */
+/*
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before,
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG.bd-settings-tab::before,
 .sidebar-nqHbhN
@@ -292,8 +301,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/personal%20settings/logOut.svg)
         center/contain no-repeat;
 }
-
+*/
 /* ---- Server Settings ---- */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="OVERVIEW" i]::before {
@@ -346,7 +356,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/serverTemplates.svg)
         center/contain no-repeat;
 }
+*/
 /* Community */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="COMMUNITY" i]::before {
@@ -383,7 +395,9 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/welcomeScreen.svg)
         center/contain no-repeat;
 }
+*/
 /* User Management */
+/*
 .sidebar-nqHbhN
     .side-2ur1Qk
     .item-3XjbnG[data-item-id="MEMBERS" i]::before {
@@ -424,28 +438,34 @@
     -webkit-mask: url(https://squirrelkiev.github.io/NewcordRevived/icons/server%20settings/invites.svg)
         center/contain no-repeat;
 }
-
+*/
 /* ------------------------------------------------------------ 🐻 SETTINGS ------------------------------------------------------------ */
 
 /* ---- Themes ---- */
+/*
 .bd-addon-header
     [d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9c.83 0 1.5-.67 1.5-1.5 0-.39-.15-.74-.39-1.01-.23-.26-.38-.61-.38-.99 0-.83.67-1.5 1.5-1.5H16c2.76 0 5-2.24 5-5 0-4.42-4.03-8-9-8zm-5.5 9c-.83 0-1.5-.67-1.5-1.5S5.67 9 6.5 9 8 9.67 8 10.5 7.33 12 6.5 12zm3-4C8.67 8 8 7.33 8 6.5S8.67 5 9.5 5s1.5.67 1.5 1.5S10.33 8 9.5 8zm5 0c-.83 0-1.5-.67-1.5-1.5S13.67 5 14.5 5s1.5.67 1.5 1.5S15.33 8 14.5 8zm3 4c-.83 0-1.5-.67-1.5-1.5S16.67 9 17.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"] {
     d: path(
         "M6 0a2 2 0 00-1.67.89L2.88 3.08A3.85 3.85 0 013.71 3a4.19 4.19 0 011.11.16l10.12 2.91 1.47.43L7.11.33A2 2 0 006 0zM3.87 5a2 2 0 00-2.08 1.43l-.59 2A3.93 3.93 0 013 8h11.38L4.27 5.06a2 2 0 00-.4-.06zM3 10a2 2 0 00-2 2v10a2 2 0 002 2h18a2 2 0 002-2V12a2 2 0 00-2-2zm15 2h3v10h-3z"
     );
 }
+*/
 
 /* ------------------------------------------------------------ 🍯 GENERAL ------------------------------------------------------------ */
 
 /* ---- Settings ----*/
+/*
 [d="M19.738 10H22V14H19.739C19.498 14.931 19.1 15.798 18.565 16.564L20 18L18 20L16.565 18.564C15.797 19.099 14.932 19.498 14 19.738V22H10V19.738C9.069 19.498 8.203 19.099 7.436 18.564L6 20L4 18L5.436 16.564C4.901 15.799 4.502 14.932 4.262 14H2V10H4.262C4.502 9.068 4.9 8.202 5.436 7.436L4 6L6 4L7.436 5.436C8.202 4.9 9.068 4.502 10 4.262V2H14V4.261C14.932 4.502 15.797 4.9 16.565 5.435L18 3.999L20 5.999L18.564 7.436C19.099 8.202 19.498 9.069 19.738 10ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16Z"] {
     d: path(
         "M22.19 14.52l-1.89-1.29a.69.69 0 01-.31-.62V12a6.64 6.64 0 00-.05-.77.73.73 0 01.31-.63l1.91-1.3a.68.68 0 00.21-.92l-2.1-3.73a.7.7 0 00-.91-.28l-2.21 1.08a.69.69 0 01-.68 0 7.65 7.65 0 00-.93-.52.72.72 0 01-.38-.58L15 2.15a.7.7 0 00-.7-.65H10a.7.7 0 00-.7.65l-.12 2.17a.65.65 0 01-.39.57 7.55 7.55 0 00-1 .61.74.74 0 01-.72 0L4.64 4.37a.7.7 0 00-.91.28L1.6 8.37a.69.69 0 00.21.93l2.24 1.53a.65.65 0 01.3.62V12.39A.69.69 0 014 13l-2.19 1.52a.7.7 0 00-.21.94l2.13 3.72a.7.7 0 00.91.28l2.27-1.11a.67.67 0 01.72.07 9.4 9.4 0 001.15.68.72.72 0 01.41.59l.15 2.16a.7.7 0 00.7.65h4.27a.7.7 0 00.7-.65l.15-2.17a.66.66 0 01.4-.57 7.55 7.55 0 001-.61.7.7 0 01.7-.06l2.07 1a.7.7 0 00.91-.28l2.13-3.72a.7.7 0 00-.18-.92zM12 15.85A3.85 3.85 0 1115.83 12 3.83 3.83 0 0112 15.85z"
     );
 }
+*/
 /* ---- Little Settings (Channels) ---- */
+/*
 [d="M14 7V9C14 9 12.5867 9 12.5733 9.00667C12.42 9.58667 12.1733 10.1267 11.84 10.6067L12.74 11.5067L11.4933 12.7533L10.5933 11.8533C10.1133 12.1867 9.57334 12.44 8.99334 12.5867V14H6.99334V12.58C6.41334 12.4333 5.87334 12.18 5.39334 11.8467L4.49333 12.7467L3.24667 11.5L4.14667 10.6C3.81333 10.1267 3.56 9.58 3.41333 9H2V7H3.41333C3.56 6.42 3.81333 5.88 4.14667 5.4L3.24667 4.5L4.5 3.24667L5.4 4.14667C5.87334 3.81333 6.42 3.56 7 3.41333V2H9V3.41333C9.58 3.56667 10.12 3.81333 10.6 4.14667L11.5067 3.25333L12.7533 4.5L11.8533 5.4C12.1867 5.87334 12.44 6.42 12.5867 7H14ZM8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"] {
     d: path(
         "M14.31 9.56l-1.17-.8a.39.39 0 01-.14-.38V8a3.59 3.59 0 000-.47.47.47 0 01.19-.4l1.19-.8a.43.43 0 00.13-.57l-1.39-2.31a.44.44 0 00-.56-.18l-1.37.67a.42.42 0 01-.42 0 4.71 4.71 0 00-.58-.32.45.45 0 01-.19-.38L9.86 1.9a.42.42 0 00-.43-.4H6.79a.44.44 0 00-.44.4l-.09 1.35A.42.42 0 016 3.6a5.14 5.14 0 00-.63.4.46.46 0 01-.44 0l-1.49-.73a.44.44 0 00-.56.18l-1.32 2.3a.44.44 0 00.13.58l1.39 1a.4.4 0 01.19.38V8.29a.44.44 0 01-.19.39l-1.38.93a.44.44 0 00-.13.58l1.32 2.3a.44.44 0 00.56.18l1.41-.69a.43.43 0 01.45 0 4.57 4.57 0 00.71.42.45.45 0 01.25.37l.09 1.34a.44.44 0 00.44.4h2.63a.42.42 0 00.43-.4l.1-1.35a.4.4 0 01.24-.35 4.5 4.5 0 00.64-.38.47.47 0 01.43 0l1.29.64a.44.44 0 00.56-.18l1.32-2.3a.44.44 0 00-.13-.63zM8 10.38A2.38 2.38 0 1110.37 8 2.37 2.37 0 018 10.38z"
     );
 }
+*/
