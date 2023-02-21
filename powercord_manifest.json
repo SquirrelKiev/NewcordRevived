@@ -1,8 +1,0 @@
-{
-    "name": "Newcord",
-    "version": "1.0.0",
-    "author": "₊˚ʚ 𝑘𝑎𝑖𝑑𝑜ˊ˗, Revived by SquirrelKiev.",
-    "license": "MIT",
-    "theme": "src/newcord.theme.scss",
-    "description": "A revival of a colorful theme inspired by the first page of Discord's website. Note that this isn't the most recent version of Newcord, rather the only copy of the repo I could find. "
-}
