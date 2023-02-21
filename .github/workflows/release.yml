@@ -35,3 +35,4 @@ jobs:
         with:
           artifacts: "bundle/*"
           makeLatest: true
+          body: "You can safely ignore this. This is here so replugged is happy."
