@@ -13,8 +13,6 @@ A revival of a colorful and customizable BetterDiscord/Powercord theme inspired 
 
 To download the theme on BetterDiscord, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder. 
 
-For Powercord, `git clone` this theme into your themes directory and you should be good. 
-
 ## Features to come (soontm)
 
 -   A plugin to customize the theme directly in Discord's appearance settings.
