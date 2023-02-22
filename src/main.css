@@ -12,6 +12,7 @@
     --interactive-muted: #72767d;
     --background-primary: #292841;
     --background-secondary: #232438;
+    --button-secondary-background: var(--background-accent);
     --background-secondary-alt: #1d1f2f;
     --background-tertiary: #181926;
     --background-accent: #3e3f65;
@@ -98,7 +99,6 @@
 	--toast-background: var(--background-secondary);
 	--toast-header: var(--background-tertiary);
 	--toast-contents: var(--background-primary);
-	
 }
 .theme-dark,
 .theme-light {
@@ -1439,4 +1439,13 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 
 .mainCard-3KBsBI.container-2qVG6q  {
 	background-color: var(--background-secondary);
+}
+
+/* ---- Forums ---- */
+.container-3wLKDe {
+    background-color: var(--background-secondary);
+}
+
+.container-ZMc96U {
+    background-color: var(--background-primary) !important;
 }
