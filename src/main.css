@@ -78,6 +78,7 @@
         0.08
     );
     --background-message-hover: rgba(4, 4, 5, 0.07);
+    --home-background: var(--background-secondary);
     --channels-default: #8e9297;
     --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     --channeltextarea-background: #30304f;
@@ -1448,4 +1449,13 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 
 .container-ZMc96U {
     background-color: var(--background-primary) !important;
+}
+
+/* ---- Browse Channels ---- */
+.container-2IKOsH {
+    background-color: var(--background-secondary) !important;
+}
+
+.chat-2ZfjoI {
+    background-color: var(--background-secondary) !important;
 }
