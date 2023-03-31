@@ -1,3 +1,7 @@
+# No longer maintaining this, as I personally don't use it anymore. 
+
+---
+
 # NewcordRevived [![Download][download-badge]][download-link] [![Support][support-badge]][support-link]
 
 [download-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/download.svg
